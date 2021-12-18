@@ -1,0 +1,11 @@
+circle{
+  transition-timing-function: ease;
+}
+
+#picker{
+  left: 980px; 
+  top: 480px;
+  z-index: 2;
+  position: absolute;
+}
+
